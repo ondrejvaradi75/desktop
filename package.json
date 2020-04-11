@@ -78,7 +78,7 @@
     "mocha": "^4.0.1",
     "node-native-loader": "^1.1.1",
     "node-sass": "^4.7.2",
-    "octicons": "^7.0.1",
+    "octicons": "^7.4.0",
     "parallel-webpack": "^2.1.0",
     "prettier": "1.10.2",
     "request": "^2.72.0",
