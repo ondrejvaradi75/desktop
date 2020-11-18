@@ -95,7 +95,7 @@
     "tslint-react": "~3.2.0",
     "typescript": "2.6.2",
     "typescript-eslint-parser": "^10.0.0",
-    "webpack": "^3.10.0",
+    "webpack": "^4.0.0",
     "webpack-dev-middleware": "^2.0.3",
     "webpack-hot-middleware": "^2.21.0",
     "webpack-merge": "^4.1.0",
